@@ -17,7 +17,7 @@ public class DatePicker {
         driver.findElement(By.xpath("/html/body/div[2]/div[3]/table/tbody/tr/td/span[2]")).click();
         driver.findElement(By.xpath("/html/body/div[2]/div[2]/table/tbody/tr/td/span[1]")).click();
         driver.findElement(By.xpath("/html/body/div[2]/div[1]/table/tbody/tr[1]/td[7]")).click();
-
+// close
 
     }
 }
